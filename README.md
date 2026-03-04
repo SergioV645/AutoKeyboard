@@ -3,7 +3,7 @@
 A simple lightweight tool that automatically presses the **spacebar** every X seconds, with a clean GUI to control it.
 
 ## ⬇️ Download
-👉 [Click here to download the latest version](https://github.com/SergioV645/auto-spacebar/releases/latest)
+👉 [Click here to download the latest version](https://github.com/SergioV645/autokeyboard/releases)
 
 ## ✨ Features
 - Set a custom interval in seconds
